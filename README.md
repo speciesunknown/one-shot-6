@@ -1,7 +1,7 @@
 # one-shot-6
 A simple system for story based tabletop RPG oneshots
 
-All you need is the [Player Handout](./Core%20Rules/player%20handout.pdf), some dice, and some tokens to represent Story Points.
+All you need is the [Player Handout](https://raw.githubusercontent.com/speciesunknown/one-shot-6/main/Core%20Rules/player%20handout.pdf), some dice, and some tokens to represent Story Points.
 
 I welcome the creation of non open source modules for the game, provided the core rules remain free
 
