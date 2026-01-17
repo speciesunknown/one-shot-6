@@ -2,7 +2,7 @@
 © Gavin Burton, 2024, [Openly licenced via CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This is a simple tabletop RPG designed to let people play a short mission with some fun characters. It's within the Rules-lite family of RPGs which relies on precedent and GM fiat rather than multiple pages of printed rules. Players and GM can create the rules together as they play.
-iii
+
 Boring things like carrying enough ammunition and food usually take a back seat. It is assumed the characters have access to all the most basic stuff. If they don't, this can start a scene such as hunting something to eat, or a complication during a scene such as a character's gun jamming. Everything drives the story.
 
 Characters do not have hitpoints; injuries also drive the story. Sometimes this might mean a turn based scene continues for several more turns while somebody is treated, or it might mean a new scene frantically transporting a character to a medical facility.
@@ -40,3 +40,4 @@ At the start of each session, there is a pool of story points, equalling the num
 1. One point: The GM can introduce a sudden complication when a player attempts an action, e.g: "You pull the trigger and realise your gun is jammed"
 1. Two points: The GM can introduce an ongoing complication during a scene, e.g: "An electric eel emerges from around a corner. It stares at you with it's cold, emotionless eyes."
 1. Three points: Random encounter! The characters suddenly find themself thrust into an unexpected scene. E.g: the cargo bay just depressurised and all your rations were ejected into space. Better get suited up.
+
