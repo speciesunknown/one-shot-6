@@ -9,3 +9,6 @@ I welcome the creation of non open source modules for the game, provided the cor
 If anybody wants to add an openly licenced module or translation, just send a pull request. Grammar and spelling for the core rules should be British English. Pip pip.
 
 I am looking for proof readers, and for somebody in the know to convert from markdown to latek (or whatever it's called these days) so we can get a better laid out .pdf handout.
+
+# Translations
+- [Latina](Translations/Latina/player%20handout.md)
