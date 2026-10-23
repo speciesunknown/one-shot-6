@@ -11,4 +11,4 @@ If anybody wants to add an openly licenced module or translation, just send a pu
 I am looking for proof readers, and for somebody in the know to convert from markdown to latek (or whatever it's called these days) so we can get a better laid out .pdf handout.
 
 # Translations
-- [Latina](Translations/Latina/player%20handout.md)
+- Latina: [Player Handout (PDF)](https://raw.githubusercontent.com/speciesunknown/one-shot-6/main/Translations/Latina/player%20handout.pdf), [Markdown](Translations/Latina/player%20handout.md)
