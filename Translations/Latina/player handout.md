@@ -24,7 +24,7 @@ Si scaena per vices agitur, circum mensam more horologii procedite. Si haec est 
 Si actio periculum defectus habet, Magister Ludi numerum successuum (4..6 in D6) postulabit, parem difficultati quam actio habere videtur. Tesseras collige et iace.
 - Semper a duabus tesseris incipe, quae instrumenta et disciplinam fundamentalem ad rem temptandam necessaria significant.
 - Adde tesseram si una ex artibus tuis probationem adiuvare potest, e.g. artem Sclopetorum addere possis
-- Adde tesseram si instrumenta specialia et disciplinam eis utendi habes, e.g. *sniper rifle* technicae provectae
+- Adde tesseram si instrumenta specialia et disciplinam eis utendi habes, e.g. rifle sniperi technicae provectae
 - Adde tesseram si causa externa actionem adiuvat, e.g. ventus tibi favet
 - Adde tesseram si alia persona te adiuvare potest
 
